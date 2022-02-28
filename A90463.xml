@@ -1,0 +1,447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect description of Virginia: being, a full and true relation of the present state of the plantation, their health, peace, and plenty: the number of people, with their abundance of cattell, fowl, fish, &amp;c. with severall sorts of rich and good commodities, which may there be had, either naturally, or by art and labour. Which we are fain to procure from Spain, France, Denmark, Swedeland, Germany, Poland, yea, from the East-Indies. There having been nothing related of the true estate of this plantation these 25 years. Being sent from Virginia, at the request of a gentleman of worthy note, who desired to know the true state of Virginia as it now stands. Also, a narration of the countrey, within a few dayes journey of Virginia, west and by south, where people come to trade: being related to the governour, Sir William Berckley, who is to go himselfe to discover it with 30 horse, and 50 foot, and other things needfull for his enterprize. With the manner how the Emperor Nichotawance came to Sir William Berckley, attended with five petty Kings, to doe homage, and bring tribute to King Charles. With his solemne protestation, that the sun and moon should lose their lights before he (or his people in that country) should prove disloyall, but ever to keepe faith and allegiance to King Charles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90463</idno>
+            <idno type="STC">Wing P1486</idno>
+            <idno type="STC">Thomason E474_15</idno>
+            <idno type="STC">ESTC R205375</idno>
+            <idno type="EEBO-CITATION">99864775</idno>
+            <idno type="PROQUEST">99864775</idno>
+            <idno type="VID">117007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117007)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E474[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect description of Virginia: being, a full and true relation of the present state of the plantation, their health, peace, and plenty: the number of people, with their abundance of cattell, fowl, fish, &amp;c. with severall sorts of rich and good commodities, which may there be had, either naturally, or by art and labour. Which we are fain to procure from Spain, France, Denmark, Swedeland, Germany, Poland, yea, from the East-Indies. There having been nothing related of the true estate of this plantation these 25 years. Being sent from Virginia, at the request of a gentleman of worthy note, who desired to know the true state of Virginia as it now stands. Also, a narration of the countrey, within a few dayes journey of Virginia, west and by south, where people come to trade: being related to the governour, Sir William Berckley, who is to go himselfe to discover it with 30 horse, and 50 foot, and other things needfull for his enterprize. With the manner how the Emperor Nichotawance came to Sir William Berckley, attended with five petty Kings, to doe homage, and bring tribute to King Charles. With his solemne protestation, that the sun and moon should lose their lights before he (or his people in that country) should prove disloyall, but ever to keepe faith and allegiance to King Charles.</title>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Prind [sic] for Richard Wodenoth, at the Star under Peters Church in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason copy bound with other items from December, 1648.</note>
+                  <note>First leaf bears a royal coat of arms on verso.</note>
+                  <note>Annotation on Thomason copy: "Dec: 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Virginia --  Description and travel --  Early works to 1800.</term>
+               <term>Virginia --  History --  Colonial period, ca.1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117007:1"/>
+            <pb facs="tcp:117007:1" rendition="simple:additions"/>
+            <p>A Perfect Deſcription of VIRGINIA: <hi>BEING,</hi> A full and true Relation of the preſent State of the Plantation, their Health, Peace, and Plenty: the number of people, with their abundance of Cattell, Fowl, Fiſh, &amp;c. with ſeverall ſorts of rich and good Commodities, which may there be had, either Naturally, or by Art and Labour. Which we are fain to procure from <hi>Spain, France, Denmark, Swedeland, Germany, Poland,</hi> yea, from the <hi>Eaſt-Indies.</hi> There having been nothing related of the true eſtate of this Planta<g ref="char:EOLhyphen"/>tion theſe 25 years.</p>
+            <p>Being ſent from <hi>Virginia,</hi> at the requeſt of a Gentleman of worthy note, who deſired to know the true State of Virginia as it now ſtands.</p>
+            <p>ALSO, A Narration of the Countrey, within a few dayes journey of <hi>Virginia, Weſt and by South,</hi> where people come to trade: being related to the Governour, Sir <hi>William Berckley,</hi> who is to go himſelfe to diſcover it with 30 horſe, and 50 foot, and other things needfull for his enterprize.</p>
+            <p>With the manner how the Emperor <hi>Nichotawance</hi> came to Sir <hi>William Berckley,</hi> attended with five petty Kings, to doe Homage, and bring Tribute to King CHARLES. With his ſolemne Proteſtation, that the Sun and Moon ſhould loſe their Lights, before he (or his people in that Country) ſhould prove diſloyall, but ever to keepe Faith and Allegiance to King CHARLES.</p>
+            <p>
+               <hi>London,</hi> Prind for <hi>Richard Wodenoth,</hi> at the Star under <hi>Peters</hi> Church in <hi>Cornhill.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117007:2"/>
+            <pb n="1" facs="tcp:117007:2"/>
+            <head>Theſe things that follow in this enſuing Relation are certified by divers Letters from <hi>Virginia,</hi> by men of worth and credit there, written to a Friend in <hi>England,</hi> that for his owne, and others ſatisfaction, was deſirous to know theſe particulars, and the preſent eſtate of that Countrey. And let no man doubt of the truth of it, there be many in <hi>England,</hi> Land and Sea<g ref="char:EOLhyphen"/>men that can beare witneſſe of it. And if this <hi>Planta<g ref="char:EOLhyphen"/>tion</hi> be not worth Encouragement, let every true <hi>Eng<g ref="char:EOLhyphen"/>liſhman</hi> judge.</head>
+            <p n="1">1 <seg rend="decorInit">T</seg>Hat there are in <hi>Virginia</hi> about fifteene thouſand <hi>Engliſh,</hi> and of <hi>Negroes</hi> brought thither, three hun<g ref="char:EOLhyphen"/>dred good ſervants.</p>
+            <p n="2">2 That of <hi>Kine, Oxen, Bulls, Calves,</hi> twenty thouſand, large and good, and they make plenty of Butter and very good Cheeſe.</p>
+            <p n="3">3 That there are of an excellent raiſe, about two hundred <hi>Horſe</hi> and <hi>Mares.</hi>
+            </p>
+            <p n="4">4 That of <hi>Aſſes</hi> for burthen and uſe, there is fifty, but daily increaſe.</p>
+            <p n="5">5 That for <hi>Sheepe</hi> they have about three thouſand, good wooll.</p>
+            <p n="6">6 That for <hi>G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ates</hi> there number is five thouſand, thrive well.</p>
+            <p n="7">7 That for <hi>Swine</hi> both tame and wilde (in the Woods) innu<g ref="char:EOLhyphen"/>merable; the fleſh pure and good, and Bacon none better.</p>
+            <p n="8">8 That for Poultry, <hi>Hens, Turkies, Ducks, Geeſe,</hi> without number.</p>
+            <p n="9">9 That they yearely plow and fow many hundred Acres of
+<pb n="2" facs="tcp:117007:3"/> 
+               <hi>Wheat,</hi> as good, and faire, as any in the world, and great increaſe.</p>
+            <p n="10">10 That they have plenty of <hi>Barley,</hi> make excellent Mault.</p>
+            <p n="11">11 That they have <hi>Six publike Brewhouſes,</hi> and moſt brew their owne Beere, ſtrong and good.</p>
+            <p n="12">12 That their <hi>Hopps</hi> are faire and large, thrive well.</p>
+            <p n="13">13 That they ſell their Beefe at two pence halfe penny a pound, Porke at three pence a pound, plentifully.</p>
+            <p n="14">14 That their Cattell are about the prices in <hi>England,</hi> and moſt of the Ships that come yearly hither, are there V<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctuall'd.</p>
+            <p n="15">15 That they have thirty ſeverall ſorts of <hi>Fiſh,</hi> River, and Sea, very excellent good in their kinds, plentifull and large.</p>
+            <p n="16">16 That they have five and twenty ſundry ſorts of <hi>Birds</hi> and <hi>Fowles,</hi> Land and Water abundance, and for food not amiſſe.</p>
+            <p n="17">17 That they have twenty kinde of Beaſts, whereof <hi>Deere</hi> a<g ref="char:EOLhyphen"/>bundance, moſt ſorts to be eaten; creeping Creatures many alſo.</p>
+            <p n="18">18 That they have fifteene kinds of <hi>Fruits,</hi> pleaſant and good, and with <hi>Italy</hi> they will compare for delicate Fruits.</p>
+            <p n="19">19 That they have five and twenty ſorts of <hi>Trees,</hi> large, good and fit for Shipping Houſing, and other uſes.</p>
+            <p n="20">20 That they have Roots of ſeverall kindes, <hi>Potatoes, Spara<g ref="char:EOLhyphen"/>gus, Carrets Turnips, Parſnips Onions,</hi> and <hi>Hartichokes.</hi>
+            </p>
+            <p n="22">22 For <hi>Herbes</hi> they have of all kinds for Gardena, nd Phyſicke Flowers.</p>
+            <p n="23">23 That their <hi>Maize</hi> or <hi>Virginia</hi> Corne, it yeelds them five hundred for one, increaſe, ('its ſet as we doe garden Peaſe) it makes good Bread and Furmitie, will keep ſeven yeares, and maults well for Beere, and ripe in five Moneths, ſet in <hi>Aprill</hi> or <hi>May.</hi>
+            </p>
+            <p n="24">24 That they have ſtore of <hi>Indian Peaſe,</hi> better then ours, <hi>Beans, Lupines,</hi> and the like.</p>
+            <p n="25">25 They have ſtore of <hi>Bees</hi> in their Woods, make plenty of ho<g ref="char:EOLhyphen"/>ney and wax and alſo tame <hi>Bees</hi> in hives about their Houſes.</p>
+            <p n="26">26 <hi>Indic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> begins to be planted, and thrives wonderfully well, growes up to a little tree, and rich <hi>Indies</hi> made of the leaves of it, all men begins to get ſome of the Seeds, and know it will be often<g ref="char:EOLhyphen"/>times the gaine to them as Tobacco (and gaine now carries the Bell:) their hopes are great to gaine the Trade of it from the <hi>Mo<g ref="char:EOLhyphen"/>gulls</hi>
+               <pb n="3" facs="tcp:117007:3"/> Countrey, and to ſupply all Chriſtendome, and this will be many Thouſands of pounds in the yeare.</p>
+            <p n="27">27 Their Tobacco is much vented and eſteemed in all places, yet the quantities ſo great that's made, that the price there is but three pence a pound. A man can plant two Thouſand waight a yeare of it, and alſo ſufficient Corne and Rootes, and other proviſi<g ref="char:EOLhyphen"/>ons for himſelfe.</p>
+            <p n="28">28 They begin to plant much Hempe and Flax which they find growes well and good, onely hands are wanting to this and other workes.</p>
+            <p n="29">29 Iron Ore and rich Mine are in abundance in the Land, fit ſtreams and waters to erect Iron Mils, woods never to be deſtroy'd to burne Coale, and all this lye on great Rivers bankes, eaſie for tranſportation of Wood and Ore, and there is Stone fit to build the Furnaces with; triall hath been made of this Iron Ore, and not better &amp; richer in the World; his work Erected would be as much worth as a Silver Mine, all things conſidered: not onely to make all Inſtruments of Iron for the Plantations Uſes, but for Building, Shipping, there being wanting in that Countrey no other Mate<g ref="char:EOLhyphen"/>rialls to that Worke; Then the caſting of Ordnance, and ma<g ref="char:EOLhyphen"/>king them, will abound to ſerve all the World; ſo of Musſquets, Armour, all kinde of Tooles, and Manufacture of Iron Workes will be produced in abundance, ſo that it would become ſpeedily the Magazine of Iron Inſtruments in every kinde, and at cheape rates; ſo that no Nation could afford them halfe ſo cheape, and all men know, that Iron will command better Mines.</p>
+            <p n="20">20 Skilfull Iron-men for the Works ſent out of <hi>England,</hi> with the aſſiſtance of as many more able labourers there in <hi>Virginia,</hi> houſing and victuall ready provided for them; (fitting places for Erecting, the Mills found out already, and Oxen for draught at hand,) the Worke in fixe Moneths time would be effected, and foure hundred pound charge to tranſport the twenty men to <hi>Virginia,</hi> with all tooles and neceſſaries for the Worke would doe it: and theſe Men for their incouragement to have halfe the gaine made of the Iron to be yearely divided betwixt the Undertakers and Workemen, the profit and gaine would be to the inriching of all.</p>
+            <p n="30">
+               <pb n="4" facs="tcp:117007:4"/>30 They have 4 Wind-mills, and 5 Water-mills to grind their Corn; beſides many Horſe-mills of ſeveral kinds, and Hand-mills for ſeveral uſes: A Sawing mill for Boards is much wanted; one mill driven by water, will do as much as 20 Sawyers &amp;c.</p>
+            <p n="31">31 There comes yeerly to trade with them above 30 ſaile of ſhips, and in theſe not ſo little as ſeven or eight hundred Ma<g ref="char:EOLhyphen"/>riners employed, (ſome ſay above a thouſand, this is a conſide<g ref="char:EOLhyphen"/>rable thing) and they return laden home in <hi>March;</hi> (this is a good ſeminary for Mariners.)</p>
+            <p n="32">32 The Commodity theſe ſhips bring, is Linnen Cloth of all ſorts, and ſo of Woollen Cloth, Stockins, Shooes, and the like things.</p>
+            <p n="33">33 Moſt of the Maſters of ſhips and chief Mariners have alſo there Plantations, and houſes, and ſervants, &amp;c. in <hi>Virginia;</hi> and ſo are every way great gainers by Fraight, by Merchandize, and by Plantation and P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe-ſtaves, Clap-board, choice Walnut-tree-vvood, Ceader-tree-timber and the like, is tranſported by them if Tobacco is not their full lading.</p>
+            <p n="34">34 They have in their Colony Pinnaces, Barkes, great and ſmall Boates many hundreds, for moſt of their Plantations ſtand upon the Rivers ſides or up little Creek<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and but a ſmall way into the Land, ſo that for tranſportation and fiſhing they uſe many Boates.</p>
+            <p n="35">35 They make Pitch and Tarre<g ref="char:punc">▪</g> (and there is materials in the Woods for abundance.) Alſo for Pot and Sope-aſhes, Woods moſt proper and ſtore: hands want.</p>
+            <p n="36">36 That for Mulbery-trees, the natural and proper food for <hi>Silke-wormes,</hi> they have abundance in the woods, and ſome ſo large that one tree contains as many leaves as will ſeed <hi>Silke-worms</hi> that will make as much Silk as may be worth five pounds <hi>ſterling</hi> money, this ſome <hi>French</hi> men affirme. And now they deſire <hi>Silke-wormes-ſeed</hi> which is ſent them<g ref="char:punc">▪</g> and their hopes are good of the thriving of it: A <hi>Commodity</hi> that may ſoon enrich them all with little labour, care or pains; all Materials ſo plentiful and at hand, the food in abundance, the Climate warm, &amp; the work done in five weeks time, and within doors, by women and children as well as
+<pb n="5" facs="tcp:117007:4"/> men, and at that time of the yeer in <hi>May,</hi> that it hinders not any o<g ref="char:EOLhyphen"/>ther work or planting, ſowing, or the like employments; ſuch an ad<g ref="char:EOLhyphen"/>vantage, that had the <hi>Dutch</hi> the like in any of their Plantations, they would improve it to the certaine gaine in the trade of Silke from <hi>Perſia</hi> and <hi>China,</hi> which we fetch with great charge and ex<g ref="char:EOLhyphen"/>pence and hazard, and inrich Heathen and Mahumetans greatly; but to theſe things lack Publick and State encouragements to be<g ref="char:EOLhyphen"/>gin the work: but more of this in an other place, it deſerves a full handling.</p>
+            <p n="37">37 Vines in abundance and variety, do grow naturally over all the land, but by the birds and beaſts, moſt devoured before they come to perfection and ripeneſſe; but this teſtifies and declares, That the Ground, and the Climate is moſt proper, and the Com<g ref="char:EOLhyphen"/>modity of Wine is not a contemptible Merchandize; but ſome men of worth &amp; eſtate muſt give in theſe things example to the in<g ref="char:EOLhyphen"/>feriour inhabitants and ordinary ſort of men, to ſhew them the gain and Commodity by it, which they will not believe but by ex<g ref="char:EOLhyphen"/>perience before their faces: And in Tobacco they can make 20. <hi>l. ſterling</hi> a man. at 3<hi rend="sup">d</hi> a pound <hi>per annum;</hi> and this they find and know and the preſent gain is that, that puts out all endeavours from the attempting of others more Staple, and Sollid, and rich Commodities, out of the heads and hands of the Common people: So as I ſay, the wealthier ſort of men muſt begin and give the ex<g ref="char:EOLhyphen"/>ample, and make the gain of other Commodities as apparent to them, by the effecting them to perfection, or it will not (as it hath not hither unto) go forward.</p>
+            <p n="38">38 That they have health very well, and fewer die in a yeer there, according to the proportion, then in any place of <hi>England;</hi> ſince that men are provided with all neceſſaries, have plenty of vi<g ref="char:EOLhyphen"/>ctual bread, and good beer, and houſeing, all which the Engliſh<g ref="char:EOLhyphen"/>men loves full dearly.</p>
+            <p n="39">39 That the Paſſengers alſo come ſafe and well: the ſeamen of late years having found a way, that now in 5, 6, and 7 weeks they ſaile to <hi>Virginia</hi> free from all Rocks, Sands, and Pirats; and that they return home again in 20 dayes ſometimes and 30 at moſt: the Winds commonly ſerving more conſtantly, being Weſterly home<g ref="char:EOLhyphen"/>ward, the Eaſterly outward bound.</p>
+            <p n="40">
+               <pb n="6" facs="tcp:117007:5"/>40 That the mouth of the two Capes of Land, Cape <hi>Henry</hi> on the South, and Cape <hi>Charles</hi> on the North; the entrance in is in 37 degrees: that the firſt River up the Weſt is <hi>James</hi> River, where moſt of the Plantations are ſetled and Towns: the ſecond is <hi>Charles</hi> river on the North of it; and the third called by the Indian name <hi>Tapahanuke,</hi> the 4 river <hi>Patawoenicke,</hi> the 5 river <hi>Patuxant,</hi> the 6 <hi>Bolus,</hi> the 7 <hi>Saquiſahanuke:</hi> at the head of the great Bay of <hi>Chespiacke,</hi> into which Bay theſe 7 rivers from the Weſt ſide of it do all enter and run into, and ſo the mouth of the Bay iſſueth out due Eaſt into the main Sea between the two afore<g ref="char:EOLhyphen"/>ſaid Capes: the Baylies North and South, and hath a Channel in draught of 140 miles, and in depth between 5, 6, and 15 fathomes in ſome places. The wideneſſe of the Bay is from the Weſt ſide which is the great Land, to the Eaſt ſide of the Land which joynes upon the Sea called the <hi>Acamake</hi>-ſhore; the wideneſſe &amp; breadth of this Bay I ſay, is about 9, 10, &amp; 14 miles broad in ſome places of it; and theſe 7 Rivers have their mouths into the Bay, not a<g ref="char:EOLhyphen"/>bove 20 miles, each River is diſtant from the other: But this in <hi>Smiths</hi> Map is more at large deſcribed.</p>
+            <p n="41">41 That ſome Engliſh about a thouſand are ſeated upon the <hi>Acamake</hi>-ſhore by Cape <hi>Charles,</hi> (where Captaine <hi>Teardley</hi> is chief Commander) now called the County of <hi>Northampton.</hi>
+            </p>
+            <p n="42">42 That they have Lime in abundance made for their houſes, ſtore of Bricks made, and Houſe and Chimnies built of Brick, and ſome Wood high and fair, covered with <hi>Shingell</hi> for <hi>Tyle,</hi> yet they have none that make them, wanting workmen; in that trade the Brickmakers have not the art to do it, it ſhrinketh.</p>
+            <p n="43">43 That ſince the Maſſacre, the <hi>Savages</hi> have been driven far away, many deſtroyed of them, their Towns and houſes ruinated, their cleer grounds poſſeſſed by the Engliſh to ſow Wheat in: and their great King <hi>Opechaukenow</hi> (that bloody Monſter upon 100 yeers old) was taken by <hi>Sir William Berkely</hi> the Governour.</p>
+            <p n="44">44 All kinds of Tradeſ-men may live well there, and do gaine much by their labours and arts, as Turners, Potters, Coopers; to make all kind of earthen and wooden Veſſells, Sawyers, Carpen<g ref="char:EOLhyphen"/>ters,
+<pb n="7" facs="tcp:117007:5"/> Tyle-makers, Boat-wrights, Taylors, Shoemakers, Tanners, Fiſhermen, and the like.</p>
+            <p n="45">45 Young youths from 16 yeers and upward, for Apprentiſes and Servants for ſome yeers, then to have Land given them, and Cattel to ſet up. Thouſands of theſe kinds of young boyes &amp; may<g ref="char:EOLhyphen"/>dens wanting.</p>
+            <p n="46">46 That the Government is after the Lawes of <hi>England,</hi> (that is well for men before they go, to know under what Lawes they ſhall live:) A Governour and Councel of State; and yeerly ge<g ref="char:EOLhyphen"/>neral Aſſemblies<g ref="char:punc">▪</g> men choſen and ſent out of each County, (there being 12 in <hi>Virginia;</hi>) theſe men Vote, and by the major part all things are concluded; and they are Elected to thoſe places by the moſt voices in the County for whom they are choſen, and by whom ſent.</p>
+            <p n="47">47 They have 20 Churches in <hi>Virginia,</hi> and Miniſters to each, and the Doctrine and Orders after the Church of <hi>England:</hi> the Miniſters Livings are eſteemed worth at leaſt 100. <hi>l per an.</hi> they are paid by each planter ſo much Tobacco <hi>per</hi> Pole, &amp; ſo many buſhels of Corn: they live all in peace and love.</p>
+            <p n="48">48 That for matter of their better knowledge of the Land they dwell in, the Planters reſolve to make a further Diſcovery into the Country Weſt and by South up above the Fall and over the Hills, and are confident upon what they have learned from the <hi>Indians,</hi> to find away to a Weſt or South Sea by land or rivers, &amp; to diſco<g ref="char:EOLhyphen"/>ver a way to <hi>China</hi> and <hi>Eaſt Indies</hi> or unto ſome other Sea that ſhal carry them thither; For Sir <hi>Francis Dr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke</hi> was on the back ſide of <hi>Virginia</hi> in his voyage about the world in 37 degrees juſt oppoſite to <hi>Virginia,</hi> and called <hi>Nova Albion,</hi> and by the Natives kind<g ref="char:EOLhyphen"/>ly uſed: And now all the queſtion is only how broad the Land may be to that place from the head of <hi>James</hi> River above the Falls, but all men conclude if it be not narrow, yet that there is and will be found the like rivers iſſuing into a South Sea or a Weſt Sea on the other ſide of thoſe Hills, as there is on this ſide when they run from the Weſt down into a Eaſt Sea after a courſe of 150 miles: but of this certainty M. <hi>Hen. Brigs</hi> that moſt judicious &amp; learned Mathe<g ref="char:EOLhyphen"/>matician wrote a ſmall Tractate, &amp; preſented it to that moſt noble
+<pb n="8" facs="tcp:117007:6"/> Earle of <hi>Southampton</hi> then Governour of the <hi>Virginia</hi> Compa<g ref="char:EOLhyphen"/>ny in <hi>England, Ann.</hi> 1623. to which I referre for a full infor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>And by ſuch a Diſcovery the Planters in <hi>Virginia,</hi> ſhall gain the rich trade of the <hi>Eaſt India,</hi> and ſo cauſe it to be driven through the Continent of <hi>Virginia,</hi> part by Land, and part by Water, and in a moſt gainfull way and ſafe, and far leſſe expenceful and dangerous, then now it is.</p>
+            <p>And they doubt not to find ſome rich and beneficiall Country, and commodities not yet known to the world that lies Weſt and by South now from their preſent Plantation.</p>
+            <p n="49">49 That the <hi>Swedes</hi> have come and crept into a River called <hi>Delawar,</hi> that is, within the limits of <hi>Virginia</hi> in 38 degrees and 30 min. it lies, and are there planted<g ref="char:punc">▪</g> 100 of them drive a great and ſe<g ref="char:EOLhyphen"/>cret trade of Furs, which they trade for with the Natives: it is but 2 dayes journey by land from our Plantations, and a dayes ſail by Sea from Cape <hi>Charles.</hi>
+            </p>
+            <p n="50">50 And again, the <hi>Hollanders</hi> have ſtoln into a River called <hi>Hudſons</hi> river in the limits alſo o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Virginia</hi> (and about 39 degrees) they have built a ſtrong Fort there, and call it <hi>Prince Maurice</hi> and <hi>New Netherlands,</hi> they drive a trade of Furres there with the Na<g ref="char:EOLhyphen"/>tives for above ten thouſand pounds a yeer.</p>
+            <p rend="block">Theſe two Plantations are between <hi>Virginia</hi> and <hi>New Eng<g ref="char:EOLhyphen"/>land</hi> on our ſide of Cape <hi>Cood</hi> which parts us and <hi>New England.</hi>
+            </p>
+            <p>Thus are the <hi>Engliſh</hi> noſed in all places, and out-traded by the <hi>Dutch,</hi> they would not ſuffer the <hi>Engliſh</hi> to uſe them ſo: But they have vigilant <hi>States men,</hi> and advance all they can for a Common good, and will not ſpare any incouragements to their people to diſ<g ref="char:EOLhyphen"/>cover.</p>
+            <p>But it is well known, that our <hi>Engliſh</hi> Plantations have had little countenances, nay, that our <hi>Statesmen</hi> (when time was) had ſtore of <hi>Gondemores</hi> gold to deſtroy and diſcountenance the Plantation of <hi>Virginia,</hi> and he effected it in a great part, by diſſolving the
+<pb n="9" facs="tcp:117007:6"/> Company, wherein moſt of the Nobility, Gentry, Corporate Cities, and moſt Merchants of <hi>England,</hi> were Intereſted and Engaged; after the expence of ſome hundred of thouſands of pounds: For <hi>Gundemore</hi> did affirme to his Friends, that hee had Commiſſion from his Maſter to ruine that <hi>Plantation.</hi> For, ſaid he, ſhould they thrive and goe on increaſing, as they have done under the Government of that Popular L. of <hi>Southampton</hi> my Maſters <hi>Weſt-Indies,</hi> and his <hi>Mexico</hi> would ſhortly be viſi<g ref="char:EOLhyphen"/>ted by Sea and by Land, from thoſe Planters in <hi>Virginia.</hi> And Marquis <hi>Hambleton</hi> told the Earle of <hi>Southampton,</hi> that <hi>Gun<g ref="char:EOLhyphen"/>demore</hi> ſaid to King <hi>James,</hi> that the <hi>Virginia</hi> Courts, was but a Seminarie to a Seditious Parliament. But this is but a touch by the way, and for a future <hi>Item</hi> to our Countrey not to deſpiſe Plantations.</p>
+            <p n="51">51 The Land in <hi>Virginia</hi> is moſt fruitfull, and produceth, with very great increaſe, whatſoever is committed into the Bow<g ref="char:EOLhyphen"/>ells of it, Planted<g ref="char:punc">▪</g> Sowed. A fat rich Soile every where wate<g ref="char:EOLhyphen"/>red with many fine Springs, ſmall Rivolets, and wholeſome Waters.</p>
+            <p n="52">52 The Countrey is with pleaſant riſing ſmall Aſcents and Deſcents, Valleys, Hills, Meadowes, and ſome levell Upland: Its Woody all over, but where labour hath cleared the ground from Trees, and this truely is the great labour in <hi>Virginia,</hi> to fell Trees, and to get up the Roots, and ſo make cleare ground for the Plow.</p>
+            <p n="53">53 Stones, and Rocks, and Quarries of ſeverall kinds, and very fit for the Iron Furnaces (as triall hath been made to endure fire) are in divers places found in <hi>Virginia.</hi>
+            </p>
+            <p n="54">54 There is divers skins of Beaſts for Merchandize and u<g ref="char:EOLhyphen"/>ſes, as Beavers, Otters, Squirrels, wild Cats, and Chriſtall is there found.</p>
+            <p n="55">55 Divers kinds of Druggs, Gummes, Dyes, Paints, that the <hi>Indians</hi> uſe.</p>
+            <p n="56">56 There is a kind of Flax the <hi>Indians</hi> uſe to make threeds of and ſtrings, we call it ſilke graſſe, i'ts fine to make both Lin<g ref="char:EOLhyphen"/>nen
+<pb n="10" facs="tcp:117007:7"/> and Stuffe of it; abundance in many places of it groweth.</p>
+            <p n="57">57 To the <hi>Southward</hi> of <hi>James</hi> River, ſome fiftie miles by Land, and eighty by Sea, lyes the River <hi>Chawanok:</hi> whither Maſter <hi>Porey</hi> went by Land, and reported, the King there told him, that within ten days Journey <hi>Weſtward</hi> towards Sun ſet<g ref="char:EOLhyphen"/>ting, there were a people that did gather out of a River ſand, the which they waſhed in <hi>Sives,</hi> and had a thing out of it, that they then put into the Fire, which melted, &amp; became like to our Copper, and offered to ſend ſome of his People to guide him to that place. But maſter <hi>Porey</hi> being not provided with men as he would have had of <hi>Engliſh,</hi> he returned to Sir <hi>George Yearly,</hi> and acquainted him with the Relation. But before they could prepare for the Journey, and Diſcovery, the firſt Maſſa<g ref="char:EOLhyphen"/>cre happened, and ſo to this day it hath beene unattempted. The Company alſo in <hi>England</hi> was diſſolved, their Patent moſt unjuſtly, againſt all Law and Conſcience, taken from them. Procured by the <hi>Spaniſh</hi> Gold and Faction, and the Colony never looked after, whether ſinke or ſwimme; and hath now theſe twenty foure yeares ſince, laboured for life, and onely to ſubſiſt with much adoe; The Cattell then left, increaſed to what you heare, and in all theſe many yeares no more People in it, and they having little Incouragement, and great unce<g ref="char:EOLhyphen"/>tainties, whether ever to be continued a Colony, whereby men have had no heart to Plant for Poſterity, but every man for the preſent, Planted Tobacco to get a livelyhood by it.</p>
+            <p>And had not this preſent Governour beene ſent as hee was, and continued, who hath done all a Gentleman could doe to mainetaine it alive. It had upon this ſecond Maſſacre beene utterly deſerted and ruinated; as things ſtand in our owne Land. If any demand the cauſe of this late Maſſacre, all having been forgiven and forgotten, what the <hi>Indians</hi> did the firſt time; Thoſe that are Planters there, write the occaſion of the <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> doing ſo wicked an Act, was. ☞ That ſome of them
+<pb n="11" facs="tcp:117007:7"/> confeſſed, That their great King was by ſome <hi>Engliſh</hi> Infor<g ref="char:EOLhyphen"/>med, that all was under the Sword in <hi>England,</hi> in their Native Countrey, and ſuch diviſions in our Land; That now was his time, or never, to roote out all the <hi>Engliſh<g ref="char:punc">▪</g>
+               </hi> For thoſe that they could not ſurprize and kill under the feigned maſque of Friendſhip and feaſting, and the reſt would be by wants; and having no ſupplyes from their own Countrey which could not helpe them, be ſuddenly Conſumed and Famiſhed. The <hi>Indians</hi> Allaruming them night and day, and killing all their Cattell, as with eaſe they might doe, and by deſtroying in the nights, all their Corne Fields, which the <hi>Engliſh</hi> could not defend. All this had (as they write) taken full effect, if God had not abated the Cou<g ref="char:EOLhyphen"/>rages of the Savages in that moment of time, they ſo treache<g ref="char:EOLhyphen"/>rouſly ſlew the <hi>Engliſh;</hi> who were preſently (the Act done) ſo affrighted in their owne minds, that they had not the heart to follow the Counſells their King had commanded: but to the admiration of the <hi>Engliſh,</hi> proſecuted not their opportuni<g ref="char:EOLhyphen"/>tie, nor were conſtant to their owne Principles, But fled away and retyred themſelves many miles diſtant off the Colony; which little ſpace of time gave the <hi>Engliſh</hi> opportunity to ga<g ref="char:EOLhyphen"/>ther themſelves together, call an Aſſembly, ſecure their Cattell, and to thinke upon ſome way to defend themſelves, if need were, and then to offend their Enemies; which by the great mercy of God was done and effected; And the particulars of all is worthy in ſome other place to be remembred and manifeſted to the VVorld, that the great God may have his due Glory, Honour, and Praiſe for ever and ever, <hi>Amen, Amen, Amen.</hi> And now at this preſent the Colony is in good eſtate (and ne<g ref="char:EOLhyphen"/>ver a third time to be ſo ſurpriſed by a ſeeming Friend.) And they conclude, their conditions are now, ſuch as they may and will greatly improve the advancement and wel-fare of the Col<g ref="char:EOLhyphen"/>lony, even by this late ſad Accident; and the Pit there Enemies digged for them, they are like to fall into themſelves, and their miſchiefe will and hath aſſuredly fallen farre more upon their own Pates; ſince their great King was taken Priſoner.</p>
+            <pb n="12" facs="tcp:117007:8"/>
+            <p>And in briefe, they ſay in three Letters, that if God pleaſe, in mercy, now to looke upon poore <hi>England,</hi> that it fall not into a ſecond Warre, nor relapſes, but a happy Peace ſetled in their Native Countrey. Then they in <hi>Virginia</hi> ſhall be as hap<g ref="char:EOLhyphen"/>pie a people as any under heaven, for there is nothing wan<g ref="char:EOLhyphen"/>ting there to produce them, <hi>Plenty, Health,</hi> and <hi>Wealth.</hi>
+            </p>
+            <p n="58">58 Concerning <hi>New-England,</hi> that they have Trade with them to and fro, and are but foure dayes Saile off from <hi>Virgi<g ref="char:EOLhyphen"/>nia,</hi> that they have had many Cattell from <hi>Virginia,</hi> and Corne, and many other things; That <hi>New-England,</hi> is in a good Con<g ref="char:EOLhyphen"/>dition for livelyhood. But for matter of any great hopes but Fiſh<g ref="char:EOLhyphen"/>ing, there is not much in that Land; For its as <hi>Scotland</hi> is to <hi>England,</hi> ſo much difference, and lyes upon the ſame Land <hi>North<g ref="char:EOLhyphen"/>ward,</hi> as <hi>Scotland</hi> doth to <hi>England:</hi> there is much Cold, Froſt and Snow, and their Land ſo barren, except a Herring be put into the hole that you ſet the Corne or Maize in, it will not come up; and it was great pittie, all thoſe people being now about twenty Thouſand, did not ſeate themſelves at firſt to the <hi>South</hi> of <hi>Virginia,</hi> in a warme and rich Countrey, where their Induſtrie would have produced <hi>Sugar, Indico, Ginger, Cotten,</hi> and the like Commodities.</p>
+            <p>And its now reported in <hi>Virginia</hi> that Thouſands of them are removing (with many from <hi>Summer Iſlands</hi> alſo) unto the <hi>Bahana Iſlands,</hi> neere the <hi>Cape of Florida;</hi> and thats the right way for them to goe and thrive.</p>
+            <floatingText type="letter" xml:lang="eng" subtype="summary">
+               <body>
+                  <pb n="13" facs="tcp:117007:8"/>
+                  <head>Letters came now this <hi>March, 1648,</hi> re<g ref="char:EOLhyphen"/>late further.</head>
+                  <p>THAT <hi>Opachankenow</hi> the old Emperour being dead ſince he was taken priſoner by our Governour, there is choſen a new one, called <hi>Nickotawances,</hi> who acknowledge to hold his Govern<g ref="char:EOLhyphen"/>ment under King <hi>Charles,</hi> and is become tributary to him, and this <hi>March</hi> 1648, <hi>Nickotawance</hi> came to <hi>James</hi> town to our Noble Governor <hi>Sir William Bearkley</hi> with five more petty Kings atten<g ref="char:EOLhyphen"/>ding him, and brought twenty Beavers-skinnes to be ſent to King <hi>Charles</hi> as he ſaid for Tribute; and after a long Oration, he con<g ref="char:EOLhyphen"/>cluded with this Proteſtation; <hi>That the Sunne and Moon ſhould firſt loſe their glorious lights and ſbining, before He, or his People ſhould evermore hereafter wrong the Engliſh in any kind, but they would ever hold love and friendſhip together: And to give the Eng<g ref="char:EOLhyphen"/>liſh better aſſurance of their Faith, He had Decreed, That if any In<g ref="char:EOLhyphen"/>dian be ſeen to come within the limits of the Engliſh Colony, (except they come with ſome Meſſage from him, with ſuch and ſuch tokens) that it ſhall be lawfull to kill them preſently; and the Engliſh ſhall be free to paſſe at all times when and where they pleaſe throughout His Dominions.</hi>
+                  </p>
+                  <p>And the <hi>Indians</hi> have of late acquainted our Governour, that within five dayes journey to the Weſtward and by South, there is
+<pb n="14" facs="tcp:117007:9"/> a great high mountaine, and at foot thereof, great Rivers that run into a great Sea; and that there are men that come hither in ſhips, (but not the ſame as ours be) they weare apparell and have reed Caps on their heads, and ride on Beaſts like our Horſes, but have much longer eares and other circumſtances they declare for the cer<g ref="char:EOLhyphen"/>tainty of theſe things.</p>
+                  <p>That Sir <hi>William</hi> was here upon preparing fifty Horſe and fifty Foot, to go and diſcover thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thing himſelf in perſon, and take all needfull proviſion in that caſe requiſite along with him: he was ready to go when theſe laſt ſhips ſet ſail for <hi>England</hi> in <hi>Aprill</hi> laſt: and we hope to give a good accompt of it by the next ſhips, God giving a bleſſing to the enterprize, which will mightily advance and enrich this Country; for it muſt needs prove a paſſage to the South Sea (as we call it) and alſo ſome part of <hi>China</hi> and the <hi>Eaſt Indies.</hi>
+                  </p>
+                  <p>The Governor <hi>Sir William,</hi> cauſed half a buſhel of Rice (which he had procured) to be ſowen, and it proſpered gallantly, and he had fifteen buſhhels of it, excellent good Rice, ſo that all theſe fif<g ref="char:EOLhyphen"/>teen buſhels will be ſowen again this yeer; and we doubt not in a ſhort time to have Rice ſo plentiful as to afford it at 2<hi rend="sup">d</hi> a pound if not cheaper, for we perceive the ground and Climate is very pro<g ref="char:EOLhyphen"/>per for it as our <hi>Negroes</hi> affirme, which in their Country is moſt of their food, and very healthful for our bodies.</p>
+                  <p>We have many thouſand of Acres of cleer Land, I mean where the wood is all off it (for you muſt know all <hi>Virginia</hi> is full of trees) and we have now going neer upon a hundred and fifty Plowes, with many brave yoak of Oxen, and we ſowe excellent Wheat, Barley, Rye, Beans, Peaſe, Oates; and our increaſe is wonderful, and better Grain not in tne world.</p>
+                  <p>One Captain <hi>Brocas,</hi> a Gentleman of the Counſel, a great Tra<g ref="char:EOLhyphen"/>veller, cauſed a Vineyard to be planted, and hath moſt excellent VVine made, and the Country, he ſaith, as proper for Vines as any in Chriſtendome, Vines indeed naturally growing over all the Country in abundance: only skilful men wanting here.</p>
+                  <pb n="15" facs="tcp:117007:9"/>
+                  <p>That at laſt Chriſtmas we had trading here ten ſhips from <hi>London,</hi> two from <hi>Briſtoll,</hi> twelve <hi>Hollanders,</hi> and ſeven from <hi>New-England.</hi>
+                  </p>
+                  <p>Mr. <hi>Richard Bennet</hi> had this yeer out of his Orchard as many Apples as he made 20 Butts of excellent Cider.</p>
+                  <p>And <hi>Mr. Richard Kinſman</hi> hath had for this three or four yeers, forty or fifty Butts of Perry made out of his Orchard, pure and good.</p>
+                  <p>So that you may perceive how proper our Country is for theſe fruits, and men begin now to plant great Orchards, and find the way of Grafting upon Crab-ſtocks, beſt for laſting, here being na<g ref="char:EOLhyphen"/>turally in this Land ſtore of wild Crab-trees.</p>
+                  <p>
+                     <hi>Mr. Hough</hi> at <hi>Nauſamund,</hi> hath a curious Orchard alſo, with all kind and variety of ſeverall fruits; the Governour in his new Orchard hath 15 hundred fruit-trees, beſides his Apricocks, Peaches, Mellicotons, Quinces, VVardens, and ſuch like fruits.</p>
+                  <p>I mention theſe particular men, that all may know the truth of things.</p>
+                  <p>Worthy Captaine <hi>Matthews,</hi> an old Planter of above thirty yeers ſtanding, one of the Counſell, and a moſt deſerving Com<g ref="char:EOLhyphen"/>mon-wealths-man, I may not omit to let you know this Gentle<g ref="char:EOLhyphen"/>mans induſtry.</p>
+                  <p>He hath a fine houſe, and all things anſwerable to it; he ſowes yeerly ſtore of Hempe and Flax, and cauſes it to be ſpun; he keeps Weavers, and hath a Tan-houſe, cauſes Leather to be dreſſed, hath eight Shoemakers employed in their trade, hath forty <hi>Negroe</hi> ſer<g ref="char:EOLhyphen"/>vants, brings them up to Trades in his houſe: He yeerly ſowes a<g ref="char:EOLhyphen"/>bundance of Wheat, Barley, &amp;c, The VVheat he ſelleth at four ſhillings the buſhell, kills ſtore of Beeves, and ſells them to vi<g ref="char:EOLhyphen"/>ctuall the ſhips when they come thither: hath abundance of Kine, a brave Dairy, Swine great ſtore, and Poltery; he married the Daughter of Sir <hi>Tho. Hinton,</hi> and in a word, keeps a good houſe, lives bravely, and a true lover of <hi>Virginia;</hi> he is worthy of much honour.</p>
+                  <pb n="16" facs="tcp:117007:10"/>
+                  <p>Our Spring begins the tenth of <hi>February,</hi> the trees bud, the graſſe ſprings, and our Autume and fall of Leaſe is in <hi>November,</hi> our VVinter ſhort, and moſt yeers very gentle, Snow lies but little, yet Yce ſome yeers.</p>
+                  <p>I may not forget to tell you we have a Free-Schoole, with two hundred Acres of Land, a fine houſe upon it, forty milch Kine, and other accommodations to it: the Benefactor deſerves perpe<g ref="char:EOLhyphen"/>tuall memory; his name <hi>Mr. Benjamin Symes,</hi> worthy to be Chronicled; other petty Schools alſo we have.</p>
+                  <p>VVe have moſt rare coloured Parraketoes, and one Bird we call the Mock-bird; for he will imitate all other Birds notes, and cries both day and night-birds, yea, the Owles and Night<g ref="char:EOLhyphen"/>ingalls.</p>
+                  <p>For Bees there is in the Country which thrive and proſper very well there: one <hi>Mr. George Pelton,</hi> alias, <hi>Strayton,</hi> a ancient planter of twenty five yeers ſtanding that had ſtore of them, he made thirty pounds a yeer profit of them; but by misfortune his houſe was burnt down, and many of his Hives periſhed, he makes excellent good Matheglin, a pleaſant and ſtrong drink, and it ſerves him and his family for good liquor: If men would endea<g ref="char:EOLhyphen"/>vour to increaſe this kind of creature, there would be here in a ſhort time abundance of VVax and Honey, for there is all the Country over delicate food for Bees, and there is alſo Bees naturally in the Land, though we accompt not of them.</p>
+               </body>
+            </floatingText>
+            <p n="59">59 Now theſe are the ſeverall ſorts and kinds of Beaſts, Birds, Fiſh, in <hi>Virginia.</hi>
+            </p>
+            <pb n="17" facs="tcp:117007:10"/>
+            <list>
+               <head>
+                  <hi>Beaſts</hi> great and ſmall as followeth: above 20 ſeverall kinds.</head>
+               <item>1 <hi>Lyons,</hi> But all theſe foure ſorts are up in the higher parts of the Countrey, on the hills and mountaines, few to be ſeene in the lower parts where the <hi>Engliſh</hi> are; the <hi>Elkes</hi> are as great as Oxen, their horns ſix foot wide, and have two Calves at a time; the skins make good Buffe, and the fleſh as good as Beefe.</item>
+               <item>2 <hi>Beares,</hi> But all theſe foure ſorts are up in the higher parts of the Countrey, on the hills and mountaines, few to be ſeene in the lower parts where the <hi>Engliſh</hi> are; the <hi>Elkes</hi> are as great as Oxen, their horns ſix foot wide, and have two Calves at a time; the skins make good Buffe, and the fleſh as good as Beefe.</item>
+               <item>3 <hi>Leopard,</hi> But all theſe foure ſorts are up in the higher parts of the Countrey, on the hills and mountaines, few to be ſeene in the lower parts where the <hi>Engliſh</hi> are; the <hi>Elkes</hi> are as great as Oxen, their horns ſix foot wide, and have two Calves at a time; the skins make good Buffe, and the fleſh as good as Beefe.</item>
+               <item>4 <hi>Elkes.</hi> But all theſe foure ſorts are up in the higher parts of the Countrey, on the hills and mountaines, few to be ſeene in the lower parts where the <hi>Engliſh</hi> are; the <hi>Elkes</hi> are as great as Oxen, their horns ſix foot wide, and have two Calves at a time; the skins make good Buffe, and the fleſh as good as Beefe.</item>
+               <item>5 <hi>Deere.</hi>
+               </item>
+               <item>6 <hi>Foxes.</hi>
+               </item>
+               <item>7 <hi>Wilde Cats.</hi>
+               </item>
+               <item>8 <hi>Raconnes,</hi> as good meat as Lambe</item>
+               <item>9 <hi>Paſſonnes<g ref="char:punc">▪</g>
+                  </hi> This beaſt hath a bagge under her belly into which ſhe takes her young ones, if at any time affrighted, and carries them away.</item>
+               <item>10 Two ſorts of Squirrels<g ref="char:punc">▪</g> One called a flying one, for that ſhe ſpreads like a Batt a certaine looſe skin ſhe hath and ſo flyes a good way.</item>
+               <item>13 <hi>A Muske Rat,</hi> So called for his great ſweetneſſe and ſhape.</item>
+               <item>14 <hi>Hares.</hi>
+               </item>
+               <item>15 <hi>Beavers.</hi>
+               </item>
+               <item>16 <hi>Otters.</hi>
+               </item>
+               <item>17 <hi>Doggs.</hi> But barke not, after the ſhape of a Wolfe, and Foxes ſmell not: VVolves but little, neither not fierce.</item>
+               <item>18 <hi>Wolves.</hi>
+               </item>
+               <item>19 <hi>Marti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, Poule Cats, Weeſels, Minks:</hi> but theſe Vermine hurt not Hens, Chickins or Eggs at any time.</item>
+               <item>20 A little beaſt like a <hi>Conny,</hi> the <hi>Foxes</hi> kill many of them.</item>
+            </list>
+            <pb n="18" facs="tcp:117007:11"/>
+            <list>
+               <head>
+                  <hi>Birds</hi> are theſe, <hi>viz.</hi> above 25 ſeverall kindes.</head>
+               <item>1 <hi>Eagles.</hi>
+               </item>
+               <item>2 <hi>Hawkes</hi> of ſix ſeverall kinds.</item>
+               <item>3 <hi>Parteridges</hi> many.</item>
+               <item>4 <hi>Wilde Turkies,</hi> ſome weighing ſixtie pound weight.</item>
+               <item>5 <hi>Red Birds,</hi> that ſing rarely.</item>
+               <item>6 <hi>Nightingales.</hi>
+               </item>
+               <item>7 <hi>Blue Birds,</hi> ſmaller then a <hi>Wren.</hi>
+               </item>
+               <item>8 <hi>Blacke birds.</hi>
+               </item>
+               <item>9 <hi>Thruſhes.</hi>
+               </item>
+               <item>10 <hi>Heath Cocks.</hi>
+               </item>
+               <item>11 <hi>Swannes.</hi>
+               </item>
+               <item>12 <hi>Cranes</hi>
+               </item>
+               <item>13 <hi>Hernes.</hi>
+               </item>
+               <item>14 <hi>Geeſe.</hi>
+               </item>
+               <item>15 <hi>Brants.</hi>
+               </item>
+               <item>16 <hi>Ducks.</hi>
+               </item>
+               <item>17 <hi>Widgeons.</hi>
+               </item>
+               <item>18 <hi>Dottrells.</hi>
+               </item>
+               <item>19 <hi>Oxeyes.</hi>
+               </item>
+               <item>20 <hi>Parrots.</hi>
+               </item>
+               <item>21 <hi>Pidgeons.</hi>
+               </item>
+               <item>22 <hi>Owles.</hi>
+               </item>
+            </list>
+            <p>Many more that have no <hi>Engliſh</hi> Names; for one called the <hi>Mock bird,</hi> that counterfeits all other ſeverall <hi>Birds</hi> cryes and tunes.</p>
+            <list>
+               <head>
+                  <hi>Fiſh</hi> are theſe in their kinde above Thirty ſorts.</head>
+               <item>1 <hi>Codde.</hi>
+               </item>
+               <item>2 <hi>B aſſe.</hi>
+               </item>
+               <item>3 <hi>Drummes</hi> ſix foot long.</item>
+               <item>4 <hi>Sheepſheads,</hi> this Fiſh makes broath ſo like Mutton-broath, that the difference is hardly known.</item>
+               <item>5 <hi>Conger.</hi>
+               </item>
+               <item>6 <hi>Eeles.</hi>
+               </item>
+               <item>7 <hi>Trouts.</hi>
+               </item>
+               <item>8 <hi>Mullets.</hi>
+               </item>
+               <item>9 <hi>Plaice.</hi>
+               </item>
+               <item>10 <hi>Grampus.</hi>
+               </item>
+               <item>11 <hi>Porpus.</hi>
+               </item>
+               <item>12 <hi>Scales.</hi>
+               </item>
+               <item>13 <hi>Sturgeons,</hi> of 10 foot long.</item>
+               <item>14 <hi>Stingraes.</hi>
+               </item>
+               <item>15 <hi>Brets.</hi>
+               </item>
+               <item>16 <hi>White Salmon.</hi>
+               </item>
+               <item>17 <hi>Soles.</hi>
+               </item>
+               <item>18 <hi>Herring.</hi>
+               </item>
+               <item>19 <hi>Conny-Fiſh.</hi>
+               </item>
+               <item>20 <hi>Rocke-fiſh.</hi>
+               </item>
+               <item>21 <hi>Lampres.</hi>
+               </item>
+               <item>22 <hi>Cray Fiſh.</hi>
+               </item>
+               <item>23 <hi>Shads.</hi>
+               </item>
+               <item>24 <hi>Perch.</hi>
+               </item>
+               <item>25 <hi>Crabbs.</hi>
+               </item>
+               <item>26 <hi>Shrimps.</hi>
+               </item>
+               <item>27 <hi>Crecy-Fiſh.</hi>
+               </item>
+               <item>28 <hi>Oyſters.</hi>
+               </item>
+               <item>29 <hi>Cockles.</hi>
+               </item>
+               <item>30 <hi>Muſſels.</hi>
+               </item>
+               <item>31 St. <hi>George Fiſh.</hi>
+               </item>
+               <item>32 <hi>Toad-Fiſh.</hi>
+               </item>
+            </list>
+            <pb n="19" facs="tcp:117007:11"/>
+            <list>
+               <head>
+                  <hi>Trees</hi> above 20 kinds, and many no <hi>Engliſh</hi> names.</head>
+               <item>1 <hi>Okes</hi> red and white VVood.</item>
+               <item>2 <hi>Aſhe.</hi>
+               </item>
+               <item>3 <hi>Wallnut,</hi> two kinds.</item>
+               <item>4 <hi>Elmes</hi>
+               </item>
+               <item>5 <hi>Ceadar.</hi>
+               </item>
+               <item>6 <hi>Cypres</hi> three fathomes about.</item>
+               <item>7 <hi>Mulbery Trees</hi> great and good.</item>
+               <item>8 <hi>Cheſnut Trees,</hi>
+               </item>
+               <item>9 <hi>Plum Trees</hi> of many kinds.</item>
+               <item>10 The <hi>Puchamine Tree.</hi>
+               </item>
+               <item>11 The <hi>Laurell.</hi>
+               </item>
+               <item>12 <hi>Cherries.</hi>
+               </item>
+               <item>13 <hi>Crahes.</hi>
+               </item>
+               <item>14 <hi>Vines.</hi>
+               </item>
+               <item>15 <hi>Saſſafras.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Fruits</hi> they have, <hi>Strawberies, Gooſeberies, Raſpices, Mara<g ref="char:EOLhyphen"/>cokos, Puchamines, Muskmillions, Pumpions;</hi> And for <hi>Fruits</hi> brought thither and planted. <hi>Aples, Peares, Quinces, Apricocks, Peaches;</hi> and many more kindes excellent good, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
